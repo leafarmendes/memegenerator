@@ -1,7 +1,7 @@
 # memegenerator
 
-Meme generator using SCRIMBA plataform as a tutorial.
+😎 Meme generator using SCRIMBA plataform as a tutorial.
 
-Used ReactJS as stack.
+👓 Used ReactJS as stack.
 
-Hooks: useState and useEffect to practice.
+👓 Hooks: useState and useEffect to practice.
